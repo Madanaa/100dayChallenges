@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ea48c90-7594-47ed-b2b3-3ce057c04b56" name="Changes" comment="" />
+    <list default="true" id="6ea48c90-7594-47ed-b2b3-3ce057c04b56" name="Changes" comment="added">
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day1/ReverseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day1/SumOfN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day10/CheckPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day10/CheckPrimeb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day10/CountDigit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day10/FibboncciSeries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day10/PrintEvenOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day10/Replacewith.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day10/ReverseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day10/RotateArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day10/SumOfNNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day11/FibonciiByRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day11/GCD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day11/PrintPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day11/TwoSumArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day12/FactPrint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day12/LCM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day12/PrintReverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day13/ReverseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day13/SecondLargestNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day13/Sum3Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day13/TwoSumArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day14/AssendingAndDesending.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day14/MorgeArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day14/SortArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day14/Target3sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day15/Array3sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day15/ArraySort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day15/AsendingAnaDsending.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day15/DivisibleBy5and11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day15/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day16/BinaryToDecimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day16/CharToAscci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day16/InverseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day16/InverseArray1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day16/PalindromNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day16/Print100.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day16/TrappingWater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day17/AramstrongNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day18/CheckPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day18/TrappingWater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day18/TripleTarget.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day2/CheckPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day2/Checkp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day2/CountDigit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day2/FibR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day2/FibonciiSeries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day3/BinaryToDecimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day3/ChwakkNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day3/DecimalToOctal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day3/LCM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day3/PrintPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day3/SumEvenOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day4/HollowRymbus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day4/PascalTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day4/Pp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day4/PrintPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day4/PrintSeries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day4/ReplaceThemAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day4/SimpleInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day5/Conversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day5/FactorialPrint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day6/BotsrenNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day6/EvenCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day6/NumNeoman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day6/Pattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day6/Pattern1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day6/PatternMountain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day6/ReplaceThemAll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day6/RtA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day7/QuadriticEquation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day7/SumOf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day8/Conversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day8/CountDigit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day8/CountDigitFind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day8/ReverseDigit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/day8/RvD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/lect9/FindMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/lect9/LinearSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/lect9/QudraticEqutaion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/lect9/Swap_Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/lect9/Swap_Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/lect9/Swap_demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/lect9/Swap_num.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticePr/lect9/TwoPointer.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,18 +100,34 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AwSDxyAirACCqbDWAa7NSIeRnE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/madan/IdeaProjects/Challenges100Days/100dayChallenges"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/madan/IdeaProjects/Challenges100Days/100dayChallenges&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="100dayChallenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="100dayChallenges" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,5 +138,20 @@
       <updated>1655919038690</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added" />
+    <option name="LAST_COMMIT_MESSAGE" value="added" />
   </component>
 </project>
